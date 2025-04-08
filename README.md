@@ -57,16 +57,6 @@ docker run --name=backend --network=demo -d -p 5050:5050 mern-backend
 ```
 🛠️ Backend will be accessible at: http://localhost:5050
 ________________________________________________________________________________________________________
-## 📁 Project Structure
-
-mern-docker-compose/
-│
-├── mern/
-│   ├── backend/          # Express + Node.js backend
-│   └── frontend/         # React frontend
-├── docker-compose.yml    # Docker Compose configuration
-└── README.md             # Project documentation
-_________________________________________________________________________________________________________
 # 🧠 Tips
 Make sure ports 5173, 5050, and 27017 are available.
 
