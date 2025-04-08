@@ -57,7 +57,8 @@ docker run --name=backend --network=demo -d -p 5050:5050 mern-backend
 ```
 🛠️ Backend will be accessible at: http://localhost:5050
 ________________________________________________________________________________________________________
-##📁 Project Structure
+## 📁 Project Structure
+
 mern-docker-compose/
 │
 ├── mern/
